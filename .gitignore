@@ -1,0 +1,41 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Windows specific
+*.tmp
+*.temp
+~$*
+
+# Image files (if you don't want to include personal images)
+# Uncomment the lines below if you don't want to include images
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
+# *.bmp
+# *.tiff
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Log files
+*.log
+
+# Editor specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OneDrive sync files
+*.tmp
+~$*
