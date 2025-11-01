@@ -1,6 +1,6 @@
-**[← Back to8. [📈 Progression Strategies](#progression-strategies)Main Program](../Hypertrophy_Program_English.md)**
-
 # 💪 Barbell Bench Press - Complete Exercise Guide
+
+**[← Back to Main Program](../Hypertrophy_Program_English.md)**
 
 ## 📋 Table of Contents
 1. [🎯 Primary Targets](#primary-targets)
