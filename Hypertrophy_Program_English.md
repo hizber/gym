@@ -3,10 +3,10 @@
 ## 📋 Table of Contents
 1. [📋 Program Overview](#program-overview)
 2. [🗓️ Weekly Schedule](#weekly-schedule)
-3. [🏋️‍♂️ Day 1: Legs](#day-1-legs)
-4. [🏋️‍♂️ Day 2: Pull (Back, Biceps)](#day-2-pull-back-biceps)
-5. [🏋️‍♂️ Day 3: Push (Chest, Shoulders, Triceps)](#day-3-push-chest-shoulders-triceps)
-6. [🏋️‍♂️ Day 4: Full Body (All Muscle Groups)](#day-4-full-body-all-muscle-groups)
+3. [🏋️‍♂️ Day 1: Lower A (Quads, Hamstrings, Glutes, Calves, Core)](#day-1-lower-a-monday)
+4. [🏋️‍♂️ Day 2: Upper A (Chest, Back, Shoulders, Arms)](#day-2-upper-a-wednesday)
+5. [🏋️‍♂️ Day 3: Lower B (Posterior chain, Unilateral legs, Core)](#day-3-lower-b-thursday)
+6. [🏋️‍♂️ Day 4: Upper B (Back, Chest, Shoulders, Arms)](#day-4-upper-b-saturday)
 7. [📈 Progression Strategy](#progression-strategy)
 8. [🍎 Nutrition Guidelines](#nutrition-guidelines)
 9. [⚠️ Important Notes](#important-notes)
@@ -21,7 +21,7 @@
 ## Program Overview
 - **Goal:** Muscle hypertrophy and strength gains
 - **Duration:** ~44–62 minutes/workout (1 min/set + 2 min rest between sets; varies by day)
-- **Frequency:** 4 days per week (Push/Pull/Legs + Full Body)
+- **Frequency:** 4 days per week (Upper/Lower split)
 - **Sets/Reps:** All exercises: 6-12 reps per set
 - **Rest:** 2 minutes between sets
 - **Volume Target:** Each muscle group: **8–10 sets per week** (distributed across 4 days)
@@ -30,195 +30,94 @@
 🗓️
 ## Weekly Schedule
 
-| Day | Muscle Groups | Duration |
-|-----|--------------|----------|
-| **Monday** | Legs (Quads, Hamstrings, Glutes, Calves) | ~62 min |
-| **Tuesday** | Pull (Back, Biceps) | ~56 min |
-| **Thursday** | Push (Chest, Shoulders, Triceps) | ~62 min |
-| **Saturday** | Full Body (All Muscle Groups) | ~50 min |
+| Day | Workout | Duration |
+|-----|---------|----------|
+| **Monday** | Lower A (Quads, Hamstrings, Glutes, Calves, Core) | ~55–70 min |
+| **Tuesday** | Upper A (Chest, Back, Shoulders, Arms) | ~50–65 min |
+| **Thursday** | Lower B (Posterior chain, Unilateral legs, Core) | ~50–70 min |
+| **Saturday** | Upper B (Back, Chest, Shoulders, Arms) | ~50–65 min |
 
 ---
 🏋️‍♂️
-## Day 1: Legs
+## Upper / Lower 4-Day Split (Converted)
 
-### Warm-up (5 minutes)
-- Dynamic leg stretches
-- Hip hinge patterning + bodyweight squats + light ramp-up sets
-
-### Main Workout (~62 minutes)
-*6 exercises — total ~19 sets (1 min per set + 2 min rest between sets)*
-
-1. **🎯 [Barbell Back Squat](./exercises/Barbell_Back_Squat_Guide.md)**
-   - 4 sets x 6-12 reps
-   - Primary quad movement
-   - *Technique:* Full depth, knees track over toes, chest up
-
-2. **🎯 [Romanian Deadlift](./exercises/Romanian_Deadlift_Guide.md)**
-   - 4 sets x 6-12 reps
-   - Posterior chain + hamstrings + glutes
-   - *Technique:* Hip hinge, bar close to legs, controlled
-
-3. **[Bulgarian Split Squats](./exercises/Bulgarian_Split_Squats_Guide.md)**
-   - 3 sets x 6-12 reps (each leg)
-   - Unilateral leg + glute emphasis
-   - *Technique:* Deep range, front leg focus
-
-4. **[Leg Press](./exercises/Leg_Press_Guide.md)**
-   - 3 sets x 6-12 reps
-   - Quad mass + pump
-   - *Technique:* Full range, controlled tempo
-
-5. **[Calf Raises](./exercises/Calf_Raises_Guide.md)**
-   - 4 sets x 6-12 reps
-   - Calf development
-   - *Technique:* Full stretch and strong peak contraction
-
-6. **[Planks](./exercises/Planks_Guide.md)**
-   - 1 set x 45-60 seconds
-   - Core stabilization
-   - *Technique:* Straight line, ribs down, tight glutes
+### Guiding principles
+- Frequency: each major muscle ~2x/week
+- Volume target: ~8–12 sets/week for prioritized muscle groups (chest, biceps, triceps); ~6–10 sets/week for core
+- Session structure: 1–2 heavy compound movements, then accessory/hypertrophy work
 
 ---
-🏋️‍♂️
-## Day 2: Pull (Back, Biceps)
+
+## Day 1: Lower A (Monday)
 
 ### Warm-up (5 minutes)
-- Shoulder + back mobility (band pull-aparts, dead hangs)
-- Light ramp-up sets for rows + pull-ups
+- Dynamic leg mobility, hip hinge patterning, light ramp-up sets
 
-### Main Workout (~56 minutes)
-*6 exercises — total ~17 sets (1 min per set + 2 min rest between sets)*
+### Main Workout (~55–70 minutes)
+1. **[Leg Press (heavy)](./exercises/Leg_Press_Guide.md)** — 4 sets x 6–8 reps
+2. **[Romanian Deadlift](./exercises/Romanian_Deadlift_Guide.md)** — 3 sets x 6–8 reps
+3. **[Bulgarian Split Squats](./exercises/Bulgarian_Split_Squats_Guide.md)** — 3 sets x 8–10 reps per leg
+4. **[Leg Press](./exercises/Leg_Press_Guide.md)** — 2 sets x 10–12 reps
+5. **[Calf Raises](./exercises/Calf_Raises_Guide.md)** — 4 sets x 12–15 reps
+6. **[Planks](./exercises/Planks_Guide.md)** — 2 sets x 45–60 seconds
 
-1. **🎯 [Pull-ups/Lat Pull-down](./exercises/Pull_ups_Lat_Pull_down_Guide.md)**
-   - 4 sets x 6-12 reps
-   - Lat width and back thickness
-   - *Technique:* Full stretch, pull toward upper chest
-
-2. **🎯 [Barbell Rows](./exercises/Barbell_Rows_Guide.md)**
-   - 4 sets x 6-12 reps
-   - Back thickness and mid-back
-   - *Technique:* Stable torso, pull elbows back to body
-
-3. **💥 [Barbell Bicep Curls](./exercises/Barbell_Bicep_Curls_Guide.md)**
-   - 3 sets x 6-12 reps
-   - Biceps mass building
-   - *Technique:* Elbows fixed, control the negative
-
-4. **💥 [Cable Bicep Curls](./exercises/Cable_Bicep_Curls_Guide.md)**
-   - 2 sets x 6-12 reps
-   - Biceps constant tension + finisher
-   - *Technique:* Steady pace, peak contraction
-
-5. **💥 [Hammer Curls](./exercises/Hammer_Curls_Guide.md)**
-   - 2 sets x 6-12 reps
-   - Brachialis and biceps thickness
-   - *Technique:* Neutral grip, slow negative
-
-6. **[Calf Raises](./exercises/Calf_Raises_Guide.md)**
-   - 2 sets x 6-12 reps
-   - Calf development (added maintenance set)
-   - *Technique:* Full stretch and strong peak contraction
+Notes: Reduced one light leg-press set from original Day4 and repurposed time to add core volume.
 
 ---
-🏋️‍♂️
-## Day 3: Push (Chest, Shoulders, Triceps)
+
+## Day 2: Upper A (Wednesday)
 
 ### Warm-up (5 minutes)
-- Shoulder + chest mobility (band pull-aparts, scapular circles)
-- Light ramp-up sets for bench press
+- Shoulder + chest mobility, band pull-aparts, light ramp-up sets for pressing and rows
 
-### Main Workout (~62 minutes)
-*6 exercises — total ~19 sets (1 min per set + 2 min rest between sets)*
+### Main Workout (~50–65 minutes)
+1. **[Barbell Bench Press](./exercises/Barbell_Bench_Press_Guide.md)** — 4 sets x 6–8 reps
+2. **[Barbell Row](./exercises/Barbell_Rows_Guide.md)** — 4 sets x 6–8 reps
+3. **[Incline Dumbbell Press](./exercises/Incline_Dumbbell_Press_Guide.md)** — 3 sets x 8–12 reps
+4. **[Pull-ups](./exercises/Pull_ups_Lat_Pull_down_Guide.md)** — 3 sets x 8–12 reps
+5. **[Lateral Raises](./exercises/Lateral_Raises_Guide.md)** — 3 sets x 12–15 reps
+6. **[Barbell Bicep Curls](./exercises/Barbell_Bicep_Curls_Guide.md)** — 4 sets x 8–12 reps
+7. **[Close‑Grip Bench Press](./exercises/Close_Grip_Bench_Press_Guide.md)** — 3 sets x 8–12 reps
 
-1. **💪 [Barbell Bench Press](./exercises/Barbell_Bench_Press_Guide.md)**
-   - 4 sets x 6-12 reps
-   - Primary horizontal press (chest mass)
-   - *Technique:* Shoulders tight, controlled tempo
-
-2. **🔥 [Military Press](./exercises/Military_Press_Guide.md)**
-   - 3 sets x 6-12 reps
-   - Primary vertical press (front/mid delts)
-   - *Technique:* Core tight, bar path straight up
-
-3. **💪 [Incline Dumbbell Press](./exercises/Incline_Dumbbell_Press_Guide.md)**
-   - 3 sets x 6-12 reps
-   - Upper chest and front delt focus
-   - *Technique:* 30-45° angle, full range of motion
-
-4. **🔥 [Lateral Raises](./exercises/Lateral_Raises_Guide.md)**
-   - 3 sets x 6-12 reps
-   - Middle deltoid isolation + width
-   - *Technique:* Controlled movement, pause at top
-
-5. **💥 [Tricep Dips](./exercises/Tricep_Dips_Guide.md)**
-   - 3 sets x 6-12 reps
-   - Triceps mass and strength
-
-6. **💪 [Close-Grip Bench Press](./exercises/Close_Grip_Bench_Press_Guide.md)**
-   - 3 sets x 6-12 reps
-   - Triceps-focused compound
-   - *Technique:* Narrow grip, elbows close
+Notes: chest volume here (Bench + Incline) targets hypertrophy; biceps/triceps sets increased to align with your priority.
 
 ---
-🏋️‍♂️
-## Day 4: Full Body (All Muscle Groups)
+
+## Day 3: Lower B (Thursday)
 
 ### Warm-up (5 minutes)
-- Light dynamic stretching
-- Mobility work for any tight areas
+- Dynamic mobility and activation for posterior chain and single‑leg work
 
-### Main Workout (~50 minutes — Light/Maintenance Emphasis)
-*10 exercises — total ~15 sets (1 min per set + 2 min rest between sets) — slightly higher volume to meet weekly set targets*
+### Main Workout (~50–70 minutes)
+1. **[Deadlift (Conventional or Trap Bar)](./exercises/Barbell_Deadlift_Guide.md)** — 3–4 sets x 4–6 reps
+2. **[Bulgarian Split Squats](./exercises/Bulgarian_Split_Squats_Guide.md)** — 3 sets x 8–10 reps per leg (or Walking Lunges)
+3. **[Walking Lunges](./exercises/Walking_Lunges_Guide.md)** — 3 sets x 10–12 reps per leg
+4. **[Leg Press](./exercises/Leg_Press_Guide.md)** — 2 sets x 10–12 reps (light)
+5. **[Hamstring Curl](./exercises/Hamstring_Curl_Guide.md)** — 2 sets x 10–12 reps (or replace with RDL set)
+6. **[Calf Raises](./exercises/Calf_Raises_Guide.md)** — 3 sets x 12–15 reps
+7. **[Russian Twists / Hanging Leg Raises](./exercises/Russian_Twists_Guide.md)** — 2 sets x 10–15 reps
+8. **[Dumbbell Bicep Curls](./exercises/Dumbbell_Bicep_Curls_Guide.md)** — 3 sets x 8–12 reps
+9. **[Overhead Tricep Extension](./exercises/Overhead_Tricep_Extension_Guide.md)** — 2 sets x 8–12 reps
 
-1. **🎯 [Deadlift (Conventional)](./exercises/Barbell_Deadlift_Guide.md)**
-   - 2 sets x 6-8 reps
-   - Heavy posterior chain compound (hamstrings, glutes, lower back)
-   - *Technique:* Neutral spine, hip hinge, bar close to legs; prioritize form and lower rep range for safety
+Notes: Posterior-chain emphasis with deadlift; added core and direct arm work to raise weekly volume for your prioritized muscles.
 
-2. **[Russian Twists](./exercises/Russian_Twists_Guide.md)**
-   - 1 set x 6-12 reps
-   - Core activation
-   - *Technique:* Controlled rotation, engage core
+---
 
-3. **💪 [Dumbbell Flyes](./exercises/Dumbbell_Flyes_Guide.md)**
-   - 1 set x 6-12 reps
-   - Chest pump + stretch
-   - *Technique:* Slight elbow bend, feel the stretch
+## Day 4: Upper B (Saturday)
 
-4. **🔥 [Rear Delt Flyes](./exercises/Rear_Delt_Flyes_Guide.md)**
-   - 2 sets x 6-12 reps
-   - Rear shoulder + upper back
-   - *Technique:* Control the swing, pause at peak
+### Warm-up (5 minutes)
+- Shoulder and back mobility, light ramp-up for pull and press movements
 
-5. **🎯 [Seated Cable Rows](./exercises/Seated_Cable_Rows_Guide.md)**
-   - 1 set x 6-12 reps
-   - Back activation + mid-back
-   - *Technique:* Sit upright, pull shoulders back
+### Main Workout (~50–65 minutes)
+1. **[Lat Pull Down](./exercises/Pull_ups_Lat_Pull_down_Guide.md)** — 4 sets x 6–8 reps
+2. **[Seated Cable Rows](./exercises/Seated_Cable_Rows_Guide.md)** — 4 sets x 8–12 reps
+3. **[Military Press](./exercises/Military_Press_Guide.md)** — 3 sets x 6–10 reps
+4. **[Dumbbell Flyes](./exercises/Dumbbell_Flyes_Guide.md)** — 3 sets x 8–12 reps
+5. **[Rear Delt Flyes / Face Pulls](./exercises/Rear_Delt_Flyes_Guide.md)** — 2 sets x 12–15 reps
+6. **[Cable Bicep Curls](./exercises/Cable_Bicep_Curls_Guide.md)** — 2 sets x 10–12 reps
+7. **[Tricep Dips](./exercises/Tricep_Dips_Guide.md)** — 3 sets x 8–12 reps
 
-6. **🎯 [Romanian Deadlift](./exercises/Romanian_Deadlift_Guide.md)**
-   - 1 set x 6-12 reps (light)
-   - Posterior chain maintenance
-   - *Technique:* Hip hinge, controlled tempo
-
-7. **[Leg Press](./exercises/Leg_Press_Guide.md)**
-   - 1 set x 6-12 reps (light)
-   - Quads light activation
-   - *Technique:* Smooth reps, constant tension
-
-8. **💥 [Dumbbell Bicep Curls](./exercises/Dumbbell_Bicep_Curls_Guide.md)**
-   - 2 sets x 6-12 reps
-   - Biceps pump
-   - *Technique:* Full range, squeeze at top
-
-9. **💥 [Overhead Tricep Extension](./exercises/Overhead_Tricep_Extension_Guide.md)**
-   - 2 sets x 6-12 reps
-   - Triceps stretch + light work
-   - *Technique:* Elbows stationary, full stretch
-
-10. **[Calf Raises](./exercises/Calf_Raises_Guide.md)**
-   - 2 sets x 6-12 reps
-   - Calf activation (maintenance)
-   - *Technique:* Full stretch and contraction
+Notes: Dumbbell Flyes increased to add chest volume; core priority continued with dedicated core work on lower days.
 
 ---
 📈
