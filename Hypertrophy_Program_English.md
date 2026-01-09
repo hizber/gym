@@ -24,7 +24,7 @@
 - **Frequency:** 4 days per week (Upper/Lower split)
 - **Sets/Reps:** All exercises: 6-12 reps per set
 - **Rest:** 2 minutes between sets
-- **Volume Target:** Each muscle group: **8–10 sets per week** (distributed across 4 days)
+- **Volume Target:** Direct sets per week: **Chest (12), Biceps (9), Triceps (9), Core (6), Rear Delts (4)**
 
 ---
 🗓️
@@ -32,10 +32,26 @@
 
 | Day | Workout | Duration |
 |-----|---------|----------|
-| **Monday** | Lower A (Quads, Hamstrings, Glutes, Calves, Core) | ~55–70 min |
-| **Tuesday** | Upper A (Chest, Back, Shoulders, Arms) | ~50–65 min |
-| **Thursday** | Lower B (Posterior chain, Unilateral legs, Core) | ~50–70 min |
-| **Saturday** | Upper B (Back, Chest, Shoulders, Arms) | ~50–65 min |
+| **Monday** | Lower A (Quads, Hamstrings, Glutes, Calves, Core) | ~45–55 min |
+| **Tuesday** | Upper A (Chest, Back, Shoulders, Arms) | ~50–60 min |
+| **Thursday** | Lower B (Posterior chain, Unilateral legs, Core) | ~45–55 min |
+| **Saturday** | Upper B (Back, Chest, Shoulders, Arms) | ~50–60 min |
+
+### 📊 Weekly Volume Breakdown (Direct + Indirect)
+
+| Muscle Group | Direct Sets | Indirect¹ | Total | Goal Check |
+|--------------|:-----------:|:---------:|:-----:|:----------:|
+| **Chest**    | 12          | 0         | **12**| ✅ (Target 12) |
+| **Biceps**   | 9           | +7.5      | **16.5**| ✅ (Target ~10) |
+| **Triceps**  | 9           | +5.5      | **14.5**| ✅ (Target ~10) |
+| **Core**     | 6           | 0         | **6** | ✅ (Target 6) |
+| **Rear Delts**| 4          | +7.5      | **11.5**| ✅ (Target 4) |
+| **Back**     | 15          | 0         | **15**| Base Volume |
+| **Quads**    | 12          | 0         | **12**| Base Volume |
+| **Hamstrings**| 9          | 0         | **9** | Base Volume |
+| **Calves**   | 9           | 0         | **9** | Base Volume |
+
+¹ *Indirect sets = 0.5 sets per compound movement (Rows/Pull-ups for Biceps/Rear Delts; Presses for Triceps).*
 
 ---
 🏋️‍♂️
@@ -53,15 +69,14 @@
 ### Warm-up (5 minutes)
 - Dynamic leg mobility, hip hinge patterning, light ramp-up sets
 
-### Main Workout (~55–70 minutes)
+### Main Workout (~45–55 minutes)
 1. **[Leg Press (heavy)](./exercises/Leg_Press_Guide.md)** — 4 sets x 6–8 reps
 2. **[Romanian Deadlift](./exercises/Romanian_Deadlift_Guide.md)** — 3 sets x 6–8 reps
 3. **[Bulgarian Split Squats](./exercises/Bulgarian_Split_Squats_Guide.md)** — 3 sets x 8–10 reps per leg
-4. **[Leg Press](./exercises/Leg_Press_Guide.md)** — 2 sets x 10–12 reps
-5. **[Calf Raises](./exercises/Calf_Raises_Guide.md)** — 4 sets x 12–15 reps
-6. **[Planks](./exercises/Planks_Guide.md)** — 2 sets x 45–60 seconds
+4. **[Calf Raises](./exercises/Calf_Raises_Guide.md)** — 5 sets x 12–15 reps
+5. **[Planks](./exercises/Planks_Guide.md)** — 3 sets x 45–60 seconds
 
-Notes: Reduced one light leg-press set from original Day4 and repurposed time to add core volume.
+Notes: Quad-dominant day. **RIR 1–2 on compounds, failure only on last set of isolation.** Core increased for weekly target.
 
 ---
 
@@ -70,16 +85,16 @@ Notes: Reduced one light leg-press set from original Day4 and repurposed time to
 ### Warm-up (5 minutes)
 - Shoulder + chest mobility, band pull-aparts, light ramp-up sets for pressing and rows
 
-### Main Workout (~50–65 minutes)
+### Main Workout (~50–60 minutes)
 1. **[Barbell Bench Press](./exercises/Barbell_Bench_Press_Guide.md)** — 4 sets x 6–8 reps
 2. **[Barbell Row](./exercises/Barbell_Rows_Guide.md)** — 4 sets x 6–8 reps
-3. **[Incline Dumbbell Press](./exercises/Incline_Dumbbell_Press_Guide.md)** — 3 sets x 8–12 reps
+3. **[Incline Dumbbell Press](./exercises/Incline_Dumbbell_Press_Guide.md)** — 4 sets x 8–12 reps
 4. **[Pull-ups](./exercises/Pull_ups_Lat_Pull_down_Guide.md)** — 3 sets x 8–12 reps
 5. **[Lateral Raises](./exercises/Lateral_Raises_Guide.md)** — 3 sets x 12–15 reps
-6. **[Barbell Bicep Curls](./exercises/Barbell_Bicep_Curls_Guide.md)** — 4 sets x 8–12 reps
-7. **[Close‑Grip Bench Press](./exercises/Close_Grip_Bench_Press_Guide.md)** — 3 sets x 8–12 reps
+6. **[SUPERSET] [Cable Bicep Curls](./exercises/Cable_Bicep_Curls_Guide.md)** — 5 sets x 10–12 reps each
+7. **[SUPERSET] [Tricep Dips](./exercises/Tricep_Dips_Guide.md)** — 5 sets x 10–12 reps each
 
-Notes: chest volume here (Bench + Incline) targets hypertrophy; biceps/triceps sets increased to align with your priority.
+Notes: Chest priority (Bench + Incline = 8 sets). **Superset biceps + triceps to save time.** RIR 1–2 on compounds.
 
 ---
 
@@ -88,18 +103,15 @@ Notes: chest volume here (Bench + Incline) targets hypertrophy; biceps/triceps s
 ### Warm-up (5 minutes)
 - Dynamic mobility and activation for posterior chain and single‑leg work
 
-### Main Workout (~50–70 minutes)
-1. **[Deadlift (Conventional or Trap Bar)](./exercises/Barbell_Deadlift_Guide.md)** — 3–4 sets x 4–6 reps
-2. **[Bulgarian Split Squats](./exercises/Bulgarian_Split_Squats_Guide.md)** — 3 sets x 8–10 reps per leg (or Walking Lunges)
-3. **[Walking Lunges](./exercises/Walking_Lunges_Guide.md)** — 3 sets x 10–12 reps per leg
-4. **[Leg Press](./exercises/Leg_Press_Guide.md)** — 2 sets x 10–12 reps (light)
-5. **[Hamstring Curl](./exercises/Hamstring_Curl_Guide.md)** — 2 sets x 10–12 reps (or replace with RDL set)
-6. **[Calf Raises](./exercises/Calf_Raises_Guide.md)** — 3 sets x 12–15 reps
-7. **[Russian Twists / Hanging Leg Raises](./exercises/Russian_Twists_Guide.md)** — 2 sets x 10–15 reps
-8. **[Dumbbell Bicep Curls](./exercises/Dumbbell_Bicep_Curls_Guide.md)** — 3 sets x 8–12 reps
-9. **[Overhead Tricep Extension](./exercises/Overhead_Tricep_Extension_Guide.md)** — 2 sets x 8–12 reps
+### Main Workout (~45–55 minutes)
+1. **[Deadlift (Conventional or Trap Bar)](./exercises/Barbell_Deadlift_Guide.md)** — 4 sets x 4–6 reps
+2. **[Bulgarian Split Squats](./exercises/Bulgarian_Split_Squats_Guide.md)** — 3 sets x 8–10 reps per leg
+3. **[Leg Press](./exercises/Leg_Press_Guide.md)** — 2 sets x 10–12 reps (light)
+4. **[Hamstring Curl](./exercises/Hamstring_Curl_Guide.md)** — 2 sets x 10–12 reps
+5. **[Calf Raises](./exercises/Calf_Raises_Guide.md)** — 4 sets x 12–15 reps
+6. **[Russian Twists](./exercises/Russian_Twists_Guide.md)** — 3 sets x 10–15 reps
 
-Notes: Posterior-chain emphasis with deadlift; added core and direct arm work to raise weekly volume for your prioritized muscles.
+Notes: Posterior-chain emphasis. **RIR 1–2 on compounds.** Core and calves increased for weekly targets.
 
 ---
 
@@ -108,16 +120,16 @@ Notes: Posterior-chain emphasis with deadlift; added core and direct arm work to
 ### Warm-up (5 minutes)
 - Shoulder and back mobility, light ramp-up for pull and press movements
 
-### Main Workout (~50–65 minutes)
+### Main Workout (~50–60 minutes)
 1. **[Lat Pull Down](./exercises/Pull_ups_Lat_Pull_down_Guide.md)** — 4 sets x 6–8 reps
 2. **[Seated Cable Rows](./exercises/Seated_Cable_Rows_Guide.md)** — 4 sets x 8–12 reps
 3. **[Military Press](./exercises/Military_Press_Guide.md)** — 3 sets x 6–10 reps
-4. **[Dumbbell Flyes](./exercises/Dumbbell_Flyes_Guide.md)** — 3 sets x 8–12 reps
-5. **[Rear Delt Flyes / Face Pulls](./exercises/Rear_Delt_Flyes_Guide.md)** — 2 sets x 12–15 reps
-6. **[Cable Bicep Curls](./exercises/Cable_Bicep_Curls_Guide.md)** — 2 sets x 10–12 reps
-7. **[Tricep Dips](./exercises/Tricep_Dips_Guide.md)** — 3 sets x 8–12 reps
+4. **[Dumbbell Flyes](./exercises/Dumbbell_Flyes_Guide.md)** — 4 sets x 8–12 reps
+5. **[Rear Delt Flyes](./exercises/Rear_Delt_Flyes_Guide.md)** — 4 sets x 12–15 reps
+6. **[SUPERSET] [Cable Bicep Curls](./exercises/Cable_Bicep_Curls_Guide.md)** — 4 sets x 10–12 reps each
+7. **[SUPERSET] [Tricep Dips](./exercises/Tricep_Dips_Guide.md)** — 4 sets x 10–12 reps each
 
-Notes: Dumbbell Flyes increased to add chest volume; core priority continued with dedicated core work on lower days.
+Notes: Back-dominant day with chest pump (DB Flyes 4 sets). **Superset biceps + triceps to save time.** RIR 1–2 on compounds.
 
 ---
 📈
